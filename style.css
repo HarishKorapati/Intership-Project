@@ -1,0 +1,24 @@
+#bg {
+    background-image: url("bg.jfif");
+    background-repeat: no-repeat;
+    background-size: 100% 100% ;
+    border: 2px solid;
+}
+#a{
+    
+    border-style: solid;
+    color: rgb(216, 11, 11);
+}
+#b{
+    border-style: solid;
+    border-radius: 10%;
+    color: rgb(219, 20, 20);
+}
+#Admin {
+background-image: url("bg1.jpg");
+background-repeat: no-repeat;
+background-size: 100% 100%;
+}
+#user {
+    background-color: rgb(129, 167, 101);
+}
